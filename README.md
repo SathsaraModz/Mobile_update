@@ -6,11 +6,9 @@
 
  "button":"Update",
 
- "description":"ℹ️New Legendz Stor 👈
-
-All Legendz Mods Application Free Download
+ "description":"Sathsara Modz Version Update How To 💞💞💞💞
 ",
 
- "download":"https://www.mediafire.com/file/nybnh6796udonu2/Legendz+Store_1.0-signed.apk/file"
+ "download":"https://youtube.com/@Sathsara-modz-01"
 
 }
