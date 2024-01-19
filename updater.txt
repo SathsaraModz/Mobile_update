@@ -2,7 +2,7 @@
   "fnmods_update": [
     {
  "version":"9.62",
- "title":"Update Disponible",
+ "title":"දුලීයා අහනා අතිනත ගැනිමේ සාදය නිමිත්තෙන්",
  "description":"RewhasApp Oficial V9.65
 
 Base: 2.23 1.76
